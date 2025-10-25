@@ -179,8 +179,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Developer
 
 **Angad Singh**
-- GitHub: [@shivang-jagwan](https://github.com/s-angad)
-- Project: [Brain-Tumor-Prediction-Model](https://github.com/s-angad/brain-disease-prediction)
+- GitHub: [@s-angad](https://github.com/s-angad)
+- Project: [Brain-Disease-Prediction](https://github.com/s-angad/brain-disease-prediction)
 
 ---
 
